@@ -7,3 +7,5 @@ https://blog.sygnia.co/the-vice-society-ransomware-investigation
 https://techcrunch.com/2022/10/03/los-angeles-school-district-ransomware-data/
 
 https://www.wired.com/story/vice-society-ransomware-gang/
+
+https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector/
