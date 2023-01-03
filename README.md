@@ -13,3 +13,5 @@ https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-o
 https://therecord.media/cincinnati-state-college-one-of-several-schools-added-to-ransomware-leak-sites-on-thanksgiving/
 
 https://www.sentinelone.com/labs/custom-branded-ransomware-the-vice-society-group-and-the-threat-of-outsourced-development/
+
+https://therecord.media/ikea-investigating-cyberattacks-on-outlets-in-kuwait-morocco/
