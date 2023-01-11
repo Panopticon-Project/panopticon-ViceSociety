@@ -15,3 +15,5 @@ https://therecord.media/cincinnati-state-college-one-of-several-schools-added-to
 https://www.sentinelone.com/labs/custom-branded-ransomware-the-vice-society-group-and-the-threat-of-outsourced-development/
 
 https://therecord.media/ikea-investigating-cyberattacks-on-outlets-in-kuwait-morocco/
+
+https://therecord.media/san-francisco-bart-investigating-ransomware-attack/
