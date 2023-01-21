@@ -17,3 +17,5 @@ https://www.sentinelone.com/labs/custom-branded-ransomware-the-vice-society-grou
 https://therecord.media/ikea-investigating-cyberattacks-on-outlets-in-kuwait-morocco/
 
 https://therecord.media/san-francisco-bart-investigating-ransomware-attack/
+
+https://therecord.media/vice-society-ransomware-gang-claims-attack-on-one-of-germanys-largest-universities/
